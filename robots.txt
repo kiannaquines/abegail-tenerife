@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abegail-tenerife.vercel.app/sitemap.xml
